@@ -142,7 +142,8 @@ details[open] summary::after {
   opacity: 0;
   background-color: white;
   color: #333;
-  width: 220px;
+  height: 250px;
+  width: 250px;
   padding: 12px;
   border-radius: 8px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.2);
